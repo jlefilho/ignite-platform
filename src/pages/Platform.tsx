@@ -2,7 +2,7 @@ import { Header } from "../components/Header";
 import { Sidebar } from "../components/Sidebar";
 import { VideoPlayer } from "../components/VideoPlayer";
 
-export function Home() {
+export function Platform() {
     return (
         <div className="flex flex-col min-h-screen">
             <Header />
