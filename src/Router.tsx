@@ -6,6 +6,7 @@ export function Router() {
         <Routes>
             <Route path="/" element={<h1>Login</h1>} />
             <Route path="/platform" element={<Platform />} />
+            <Route path="/platform/lesson/:slug" element={<Platform />} />
         </Routes>
     )
 }
