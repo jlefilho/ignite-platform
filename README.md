@@ -44,5 +44,5 @@ npm run dev
 Ou acesse:
 
 ```bash
-https://ignite-platform-iurk5zw24-jlefilho.vercel.app
+https://ignite-platform-jlefilho.vercel.app/
 ```
